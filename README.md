@@ -2,73 +2,52 @@
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
 <h1 align="center">
-  Week Theme Title
+  Bootcamp Pre-Course
 </h1>
 
 ## Overview
 
-An introductory paragraph or two about the weeks theme...
+TBC
 
-### This Week's Objectives
+### Objectives
 
-#### Learning
+By the end of this pre-course material, you'll be able to:
 
-- Learning 1
-- Learning 2
-- Learning 3
-- Learning 4
-
-#### Mindset
-
-- Mindset 1
-- Mindset 2
-- Mindset 3
-- Mindset 4
+- Have your development environment (VS Code and other necessary software) set up so you're ready to code
+- Understand how information flows over the internet
+- Use Markdown, a markup language developers use when documenting and commenting on code
+- Use HTML to build a static webpage and CSS to style it
+- Start to become acquainted with the basics of JavaScript
 
 ## Learning Journey 🗺
 
-The following tasks are for you to do in your own time, on your own and with your pair. They all will help you practice the skills necessary for this weeks objectives. Take your time, enjoy the process, and read around each part.
+Work through the sections below to (FINISH)
 
-### Title
+### Setting up your development environment to get ready to code
 
-Paragraph with links to resources.
+TBC
 
-...
+### How the internet works
 
-## Groups and Pairs 👩‍💻👨‍💻 👩‍💻👨‍💻
+TBC
 
-Below you will find the pairs and teams for this week. Your pair will be the person you see the most but keep in touch with your team throughout the week. Ask them how they are getting on and use them as your first port of call if you are stuck on something.
+### Getting a taste of syntax with Markdown
 
-<details>
-<summary>Pairs for Week {n % 2 == 1 ? "n and n + 1" : "n - 1 and n"}</summary>
+TBC
 
-| Pair | Team |                          |
-| ---- | ---- | ------------------------ |
-| 1    | A    |                          |
-| 2    | A    |                          |
-| 3    | B    |                          |
-| 4    | B    |                          |
-| 5    | C    |                          |
-| 6    | C    |                          |
-| 7    | D    |                          |
-| 8    | D    |                          |
-| 9    | E    |                          |
-| 10   | E    |                          |
-| 11   | F    |                          |
-| 12   | F    |                          |
-| 13   | G    |                          |
-| 14   | G    |                          |
-| 15   | H    |                          |
-| 16   | H    |                          |
-| 17   | I    |   Group of three goes here                       |
-| 18   | J    | Group of three goes here                         |
+### HTML and CSS, the building blocks of the web
 
-</details>
+TBC
+https://scrimba.com/learn/design
 
-### Checkpoint Challenge ✅
+### First steps into JavaScript
 
-Link to checkpoint challenge repo
+TBC
 
-## Live Session Videos
+## TODO: Project section - define wording!
+
+TBC
 
 ## Further Resources
+
+- TBC
