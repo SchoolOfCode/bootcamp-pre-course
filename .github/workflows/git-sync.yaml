@@ -1,0 +1,17 @@
+# Action to keep SchoolOfCode repo up to date with Schoo-Of-Code-HQ repo.
+
+on: [push, workflow_dispatch]
+jobs:
+  git-sync:
+    environment: "soc-git-sync"
+    if: ${{ github.repository_owner == 'School-Of-Code-HQ' && github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-sync
+        uses: wei/git-sync@v3
+        with:
+          source_repo: ${{ github.repository }}
+          source_branch: "main"
+          destination_repo: ${{ secrets.DESTINATION_REPO }} # Set in repository secrets
+          destination_branch: "main"
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} # Set in repository or organisation secrets

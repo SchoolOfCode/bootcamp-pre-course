@@ -1,0 +1,20 @@
+on:
+  issues:
+    types: [opened]
+name: Slack Notification Demo
+jobs:
+  slackNotification:
+    name: Slack Notification
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Slack Notification
+      uses: rtCamp/action-slack-notify@v2
+      env:
+        SLACK_WEBHOOK: ${{ secrets.SLACK_ISSUE_WEBHOOK }}
+        SLACK_MESSAGE: "https://github.com/${{ github.repository }}/issues"
+        SLACK_USERNAME: "iShoebot"
+        SLACK_ICON_EMOJI: ":robot_face:"
+        SLACK_FOOTER: "a new issue has been raised"
+        SLACK_TITLE: "Link"
+        MSG_MINIMAL: true
