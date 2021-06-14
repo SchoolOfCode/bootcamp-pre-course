@@ -62,9 +62,17 @@ Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI
 
 To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum.
 
-TODO: Finish this section - add resources!
+TODO: Finish this section!
 
-## TODO: Project section - define wording!
+### Git and Version Control
+
+TODO: TBC
+
+### Taking Command - the Command Line
+
+TODO: TBC - line commander!
+
+### TODO: Project section - need to define wording!
 
 TODO: Project description here! (FCC tribute page. Form page too?) FCC projects are in Codepen. Is it reasonable to ask for them to do it in Codepen for FCC's tests and then move it to a GH repo? We can provide the classroom link with starter files to make it easier!
 
