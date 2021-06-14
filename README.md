@@ -20,6 +20,8 @@ By the end of this material, you'll be able to:
 - Use Markdown, a markup language developers use when documenting and commenting on code
 - Use HTML to build a static webpage and CSS to style it
 - Start to become acquainted with the basics of JavaScript
+- Know the basics of Git and Github for version control
+- Start navigating through your computer using commands in the command line
 
 ## Learning Journey 🗺
 
