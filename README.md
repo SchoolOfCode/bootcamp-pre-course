@@ -52,9 +52,11 @@ Follow the [tutorial here](https://www.markdowntutorial.com/) to learn the basic
 
 ### HTML and CSS, the building blocks of the web
 
-TODO: FCC web design course - point them to both the video options and
+Now that your syntax muscles are limbered up, it's time to jump into HTML and CSS, which form the building blocks of the web. HTML stands for "hyper-text markup language", and CSS stands for "cascading style sheets". If a web page was a body, HTML would be its skeleton, the basic structure of the page. 🦴 💀 CSS would then be the skin, hair, clothes, jewelry, and anything else that falls under the design of the page, how it looks and how it's styled. 🩳 👗
 
-TODO: https://scrimba.com/learn/design for design!
+FreeCodeCamp is a fantastic resource that makes learning HTML and CSS approachable and fun. Work your way through [the Responsive Web Design activities here](https://www.freecodecamp.org/learn/responsive-web-design/) and/or their full [Learn HTML5 and CSS3 From Scratch video course here](https://www.youtube.com/watch?v=mU6anWqZJcc).
+
+Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI Design Fundamentals course](https://scrimba.com/learn/design) to help you learn basic design principles that help you create user interfaces with your HTML and CSS that both look good and function well.
 
 ### First steps into JavaScript
 
@@ -63,6 +65,8 @@ TBC
 ## TODO: Project section - define wording!
 
 TODO: Project description here! (FCC tribute page. Form page too?) FCC projects are in Codepen. Is it reasonable to ask for them to do it in Codepen for FCC's tests and then move it to a GH repo? We can provide the classroom link with starter files to make it easier!
+
+TODO: Ask them to do a readme in MD (the "practice soon" referenced in the MD section above)
 
 ## Further Resources
 
