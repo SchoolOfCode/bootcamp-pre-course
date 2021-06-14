@@ -60,7 +60,9 @@ Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI
 
 ### First steps into JavaScript
 
-TBC
+To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum.
+
+TODO: Finish this section - add resources!
 
 ## TODO: Project section - define wording!
 
