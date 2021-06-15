@@ -56,7 +56,7 @@ Follow the [tutorial here](https://www.markdowntutorial.com/) to learn the basic
 
 Now that your syntax muscles are limbered up, it's time to jump into HTML and CSS, which form the building blocks of the web. HTML stands for "hyper-text markup language", and CSS stands for "cascading style sheets". If a web page was a body, HTML would be its skeleton, the basic structure of the page. 🦴 💀 CSS would then be the skin, hair, clothes, jewelry, and anything else that falls under the design of the page, how it looks and how it's styled. 🩳 👗
 
-FreeCodeCamp is a fantastic resource that makes learning HTML and CSS approachable and fun. Work your way through [the Responsive Web Design activities here](https://www.freecodecamp.org/learn/responsive-web-design/) and/or their full [Learn HTML5 and CSS3 From Scratch video course here](https://www.youtube.com/watch?v=mU6anWqZJcc).
+FreeCodeCamp is a fantastic resource that makes learning HTML and CSS approachable and fun. Work your way through [the Responsive Web Design activities here](https://www.freecodecamp.org/learn/responsive-web-design/). You can also watch their [Learn HTML5 and CSS3 From Scratch video course here](https://www.youtube.com/watch?v=mU6anWqZJcc).
 
 Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI Design Fundamentals course](https://scrimba.com/learn/design) to help you learn basic design principles that help you create user interfaces with your HTML and CSS that both look good and function well.
 
@@ -64,7 +64,7 @@ Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI
 
 To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum.
 
-TODO: Finish this section!
+Start your JavaScript journey by progressing through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
 
 ### Git and Version Control
 
