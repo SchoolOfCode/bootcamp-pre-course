@@ -63,13 +63,13 @@ To continue the body analogy from above, if HTML is the skeleton giving the stru
 
 Start your JavaScript journey by progressing through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
 
-### Git and Version Control
+### Git and version control
 
 The image of the lone coder sitting in a dark corner, nestled under a hooded sweatshirt and tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. This is where version control tool comes in to save the day. During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
 
 Follow the [tutorial here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) to start getting your head around Git and GitHub. Use this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) for a quick reminder of the commands. If things get too complicated, you can use [this site](https://dangitgit.com/en) to help unpick common Git snarls in plain English.
 
-### Taking Command - the Command Line
+### Taking command with the command line
 
 <img alt="Line Commander" src="./images/line-commander.png" width="500" />
 
