@@ -20,7 +20,7 @@ By the end of this material, you'll be able to:
 - Use Markdown, a markup language developers use when documenting and commenting on code
 - Use HTML to build a static webpage and CSS to style it
 - Start to become acquainted with the basics of JavaScript
-- Know the basics of Git and Github for version control
+- Know the basics of Git and GitHub for version control
 - Start navigating through your computer using commands in the command line
 
 ## Learning Journey 🗺
@@ -48,7 +48,7 @@ We've selected three videos for you to watch from a series of YouTube videos tha
 
 <img alt="I love markdown" src="./images/i-love-markdown.png" width="200" />
 
-[Markdown](https://daringfireball.net/projects/markdown/syntax#philosophy) is a lightweight markup language designed to make it easy to write for the web, with an emphasis on being as easy-to-read and easy-to-write as possible. Developers use it to write documentation about their code and communicate on Github around issues and pull requests. The readme you're reading right now is written in Markdown, in fact. It's also used by a lot of tech bloggers to create content. For example, if you wanted to write a post on [dev.to](https://dev.to/), you'd do it in Markdown. In addition to being useful on its own, learning Markdown will help you get used to using different syntax than you might be used to to make things happen on a page, which is good practice for coding! 💪
+[Markdown](https://daringfireball.net/projects/markdown/syntax#philosophy) is a lightweight markup language designed to make it easy to write for the web, with an emphasis on being as easy-to-read and easy-to-write as possible. Developers use it to write documentation about their code and communicate on GitHub around issues and pull requests. The readme you're reading right now is written in Markdown, in fact. It's also used by a lot of tech bloggers to create content. For example, if you wanted to write a post on [dev.to](https://dev.to/), you'd do it in Markdown. In addition to being useful on its own, learning Markdown will help you get used to using different syntax than you might be used to to make things happen on a page, which is good practice for coding! 💪
 
 Follow the [tutorial here](https://www.markdowntutorial.com/) to learn the basics of Markdown. You'll have a chance to practice it soon.
 
@@ -68,7 +68,9 @@ TODO: Finish this section!
 
 ### Git and Version Control
 
-TODO: TBC
+The image of the lone coder sitting in a dark corner, nestled under a hooded sweatshirt and tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. This is where version control tool comes in to save the day. During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
+
+Follow the [tutorial here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) to start getting your head around Git and GitHub. Use this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) for a quick reminder of the commands. If things get too complicated, you can use [this site](https://dangitgit.com/en) to help unpick common Git snarls in plain English.
 
 ### Taking Command - the Command Line
 
