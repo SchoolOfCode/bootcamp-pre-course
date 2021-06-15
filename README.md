@@ -72,7 +72,11 @@ TODO: TBC
 
 ### Taking Command - the Command Line
 
-TODO: TBC - line commander!
+<img alt="Line Commander" src="./images/line-commander.png" width="500" />
+
+Most users interact with their modern computers using the GUI (graphic user interface) built into their operating system. This means that they can look through their files, open programs, etc. by clicking on icons like folders. 📁 However, as a programmer, you'll start to use the command line, where you type prompts into a text terminal, to tell your computer what to do directly. ⌨️ It might be weird at first, but trust us - when you get used to it, it's much faster!
+
+Learning to navigate a computer using the command line is a skill that gives you lots of power. It will also make you feel like a hacker in a movie. There are a few basic commands to learn first and a lot of more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input. We've put together [this challenge](https://schoolofcode.github.io/line-commander/) for you to play through which should help you get to grips with the basics and also do some cool stuff!
 
 ### TODO: Project section - need to define wording!
 
