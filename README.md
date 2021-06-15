@@ -9,7 +9,7 @@
 
 Thank you for applying for the School of Code bootcamp, and congratulations on taking the first step on your coding journey! Work your way through the activities below to get set up for coding success and build a strong foundation in web development.
 
-TODO: Finish this intro wording. Reference that it'll prepare people for the course if accepted and still be valuable if not (and mention that people who aren't successful can reapply, and having done this learning will help them be more successful next time).
+If you're successful at obtaining a place on the current cohort of the bootcamp, completing all of the activities in this guide will be essential before day one of the course so that you're up to speed with where the curriculum will start. However, if you aren't able to join us for the current cohort, the activities set out below will still be an invaluable roadmap to begin your coding journey and equip you with the skills you'll need to progress. Also, if you do reapply to School of Code's future cohorts (and we hope that you do!), having gained the knowledge from these activities will be a huge advantage next time.
 
 ### Objectives
 
@@ -29,10 +29,7 @@ By the end of this material, you'll be able to:
 
 Your IDE (integrated development environment) will be where you write your code during this course, and although there are many options out there, the one we use is Visual Studio Code (usually just referred to as VS Code). VS Code is infinitely customisable with extensions, and it has an integrated terminal, live share, and other handy capabilities that make our coding life easier. Watch [this video](https://code.visualstudio.com/docs/introvideos/basics) to get started with the basics. Then spend some time just familiarising yourself with the program and practice the keyboard shortcuts. You can find a printable shortcut reference [here (Mac)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) or [here (Windows)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) or in the home screen of VS Code. You can also find a [searchable reference here](https://vscode-shortcuts.com/).
 
-After you have your VS Code installed, follow the guide below relevant to your operating system on how to get prepared with all the other necessary software to code during the bootcamp:
-
-- TODO: MAC VERSION OF SETUP GUIDE HERE
-- TODO: WINDOWS VERSION OF SETUP GUIDE HERE
+[This guide](https://www.canva.com/design/DAEhRtVI350/sFbhxfM4nTfe7N4bJu7EnQ/view#1) will help you install VS Code along with the other software you'll need. Follow the instructions on each page that pertain to your operating system.
 
 ### How the internet works
 
