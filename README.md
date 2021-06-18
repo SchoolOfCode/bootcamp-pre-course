@@ -61,7 +61,7 @@ Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI
 
 To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum.
 
-Start your JavaScript journey by progressing through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
+Start your JavaScript journey by watching our very own Dr. Chris Meah's [introduction to JavaScript](https://vimeo.com/showcase/8582136) to put things in context and get introduced to the fundamentals. Use the password **bootcamp** to access the video. Then get your hands dirty in JavaScript, progress through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, you can supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
 
 ### Git and version control
 
@@ -77,12 +77,14 @@ Most users interact with their modern computers using the GUI (graphic user inte
 
 Learning to navigate a computer using the command line is a skill that gives you lots of power. It will also make you feel like a hacker in a movie. There are a few basic commands to learn first and a lot of more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input. We've put together [this challenge](https://schoolofcode.github.io/line-commander/) for you to play through which should help you get to grips with the basics and also do some cool stuff!
 
-### TODO: Project section - need to define wording!
+### Putting it all together - your first projects
 
 TODO: Project description here! (FCC tribute page. Form page too?) FCC projects are in Codepen. Is it reasonable to ask for them to do it in Codepen for FCC's tests and then move it to a GH repo? We can provide the classroom link with starter files to make it easier!
 
 TODO: Ask them to do a readme in MD (the "practice soon" referenced in the MD section above)
 
+By this point, you've done a load of learning, and you might feel like you have lots of different pieces of information swimming around in your head. It's time to solidify what you learned and give you the opportunity for some creativity as well by putting that knowledge into practice.
+
 ## Further Resources
 
-- TBC
+- [FreeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
