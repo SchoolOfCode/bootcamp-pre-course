@@ -1,6 +1,6 @@
 ---
 name: I've found a bug
-about: Use this template if you have found a bug in the weeks resources.
+about: Use this template if you have found a bug in these resources.
 title: "[Bug Name]"
 labels: "bug"
 ---
