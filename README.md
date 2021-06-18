@@ -59,25 +59,25 @@ Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI
 
 ### First steps into JavaScript
 
-To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum.
+To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum!
 
-Start your JavaScript journey by watching our very own Dr. Chris Meah's [introduction to JavaScript](https://vimeo.com/showcase/8582136) to put things in context and get introduced to the fundamentals. Use the password **bootcamp** to access the video. Then get your hands dirty in JavaScript, progress through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, you can supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
+Start your JavaScript journey by watching our very own Dr. Chris Meah's [introduction to JavaScript](https://vimeo.com/showcase/8582136) to put things in context and get introduced to the fundamentals. Use the password **bootcamp** to access the video. Then get your hands on JavaScript by progressing through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, you can supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
 
 ### Taking command with the command line
 
 <img alt="Line Commander" src="./images/line-commander.png" width="500" />
 
-Most users interact with their modern computers using the GUI (graphic user interface) built into their operating system. This means that they can look through their files, open programs, etc. by clicking on icons like folders. 📁 However, as a programmer, you'll start to use the command line, where you type prompts into a text terminal, to tell your computer what to do directly. ⌨️ It might be weird at first, but trust us - when you get used to it, it's much faster!
+Most users interact with their modern computers using the GUI (graphic user interface) built into their operating system. This means that they can look through their files, open programs, etc. by clicking on icons like folders. 📁 However, as a programmer, you'll start to use the command line, where you type prompts into a text terminal, to tell your computer what to do directly. ⌨️ It might be weird at first, but trust us - when you get used to it, it's much faster. Plus, you'll start to feel a little bit like a hacker in a movie! 😎
 
-Learning to navigate a computer using the command line is a skill that gives you lots of power. It will also make you feel like a hacker in a movie. There are a few basic commands to learn first and a lot of more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input. We've put together [this challenge](https://schoolofcode.github.io/line-commander/) for you to play through which should help you get to grips with the basics and also do some cool stuff!
+Learning to navigate a computer using the command line is a skill that gives you lots of power. There are a few basic commands to learn first and a lot of more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input. We've put together [this challenge](https://schoolofcode.github.io/line-commander/) for you to play through which should help you get to grips with the basics and also do some cool stuff!
 
 ### Git and version control
 
-The image of the lone coder sitting in a dark corner, nestled under a hooded sweatshirt and tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. This is where version control tool comes in to save the day. During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
+The image of the lone coder sitting in a dark corner tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. This is where a version control tool comes in to save the day. During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
 
-First, make sure you follow [the instructions here](https://www.freecodecamp.org/news/git-first-time-setup/) to ensure you've installed Git correctly and have your credentials configured correctly. This will be another good chance to start interacting with your computer using the command line!
+First, make sure you follow [the instructions here](https://www.freecodecamp.org/news/git-first-time-setup/) to ensure you've installed Git correctly and have your credentials configured correctly. This will be a good chance to start practicing interacting with your computer using the command line as well.
 
-Play through [this fun game](https://ohmygit.org/) to learn how Git works and the advantages of using it when coding and collaborating. It's a time machine for your code!
+Play through [this fun game](https://ohmygit.org/) to learn how Git works and the advantages of using it when coding and collaborating.
 
 Then you can follow the [tutorial here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) to start getting your head around combining Git with GitHub. You can use this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) for a quick reminder of the new command line commands you'll use when interacting with Git. If things get too complicated or you end up in a snarl, you can use [this site](https://dangitgit.com/en) to help unpick common Git issues in plain English.
 
@@ -89,7 +89,7 @@ We'd like you to complete the first project in FreeCodeCamp's Responsive Web Des
 
 Your page needs to fulfill all of the user stories listed on FreeCodeCamp's requirements page. You can create a Codepen using their template and run their inbuilt test suite to check how you're doing, and then feel free to submit it to FreeCodeCamp to get your first step toward their certification. This will be great practice in building a project according to a set of requirements as user stories just like software developers do on the job.
 
-However, we'd also like you to solidify the other knowledge you've gained in the activities above. Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. We use GitHub Classroom for our assignments during the course, so to give you your first taste of that, please click on the [classroom link here](TODO: INSERT LINK!!!). This will create your own personal repository that you can then clone down.
+However, we'd also like you to solidify the other knowledge you've gained in the activities above. Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. We use GitHub Classroom for our assignments during the course, so to give you your first taste of that, please click on the [classroom link here](https://classroom.github.com/a/47ScShCr). This will create your own personal repository that you can then clone down.
 
 In this repository, please:
 
@@ -100,11 +100,13 @@ In this repository, please:
 
 This way, you'll embed your skills and have your first project in your portfolio, and we'll be able to check out your code and be able to give you feedback as well.
 
-## TODO: Lift Tao's GH issues blurb from PT BC (if can find - if not, draft something). Use GH issues feature for any questions, comments, and interaction. Can use inbuilt templates (bugs, questions, resource, etc.).
+## Do you have a question or need help?
+
+If you have any questions, comments, or discussion topics, or if you need any help, you can use the "Issues" tab at the top of this repository page. Here, if you click on "New issue", you can use the inbuilt templates or create a blank issue. This way, you can interact with your fellow aspiring bootcampers as well as the School of Code staff.
 
 ## Further Resources
 
-If you've finished the activities above and are hungry for more, here are some optional further resources for you to check out.
+If you've finished the activities above and are hungry for more, here are some optional further resources for you to check out. We'll keep adding to this list if we discover any nifty new resources we'd like to share with you between now and the bootcamp starting, so check back often.
 
 ### Information
 
