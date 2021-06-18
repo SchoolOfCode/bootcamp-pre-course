@@ -63,12 +63,6 @@ To continue the body analogy from above, if HTML is the skeleton giving the stru
 
 Start your JavaScript journey by watching our very own Dr. Chris Meah's [introduction to JavaScript](https://vimeo.com/showcase/8582136) to put things in context and get introduced to the fundamentals. Use the password **bootcamp** to access the video. Then get your hands dirty in JavaScript, progress through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Alongside it, you can supplement your learning further with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg).
 
-### Git and version control
-
-The image of the lone coder sitting in a dark corner, nestled under a hooded sweatshirt and tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. This is where version control tool comes in to save the day. During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
-
-Follow the [tutorial here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) to start getting your head around Git and GitHub. Use this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) for a quick reminder of the commands. If things get too complicated, you can use [this site](https://dangitgit.com/en) to help unpick common Git snarls in plain English.
-
 ### Taking command with the command line
 
 <img alt="Line Commander" src="./images/line-commander.png" width="500" />
@@ -76,6 +70,16 @@ Follow the [tutorial here](https://product.hubspot.com/blog/git-and-github-tutor
 Most users interact with their modern computers using the GUI (graphic user interface) built into their operating system. This means that they can look through their files, open programs, etc. by clicking on icons like folders. 📁 However, as a programmer, you'll start to use the command line, where you type prompts into a text terminal, to tell your computer what to do directly. ⌨️ It might be weird at first, but trust us - when you get used to it, it's much faster!
 
 Learning to navigate a computer using the command line is a skill that gives you lots of power. It will also make you feel like a hacker in a movie. There are a few basic commands to learn first and a lot of more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input. We've put together [this challenge](https://schoolofcode.github.io/line-commander/) for you to play through which should help you get to grips with the basics and also do some cool stuff!
+
+### Git and version control
+
+The image of the lone coder sitting in a dark corner, nestled under a hooded sweatshirt and tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. This is where version control tool comes in to save the day. During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
+
+First, make sure you follow [the instructions here](https://www.freecodecamp.org/news/git-first-time-setup/) to ensure you've installed Git correctly and have your credentials configured correctly. This will be another good chance to start interacting with your computer using the command line!
+
+Play through [this fun game](https://ohmygit.org/) to learn how Git works and the advantages of using it when coding and collaborating. It's a time machine for your code!
+
+Then you can follow the [tutorial here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) to start getting your head around combining Git with GitHub. You can use this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) for a quick reminder of the new command line commands you'll use when interacting with Git. If things get too complicated or you end up in a snarl, you can use [this site](https://dangitgit.com/en) to help unpick common Git issues in plain English.
 
 ### Putting it all together - your first projects
 
@@ -90,14 +94,29 @@ However, we'd also like you to solidify the other knowledge you've gained in the
 In this repository, please:
 
 - Take your code from the Codepen and insert it into the HTML and CSS files within the repository.
-- Use your new Markdown skills to write a README for the repository. In it, you can talk about why you chose the subject you chose for your tribute page as well as what you learned and any reflections on the development journey.
-- Add, commit, and push your changes to the repository using your new Git skills on the command line.
+- Use your new Markdown skills to write a README for the repository. In it, you can talk about why you chose the subject you chose for your tribute page as well as what you learned making it and any reflections on the development journey.
+- Add, commit, and push your changes to that repository using your new Git skills on the command line in the VS Code terminal.
 - You can then go in and make the repository public in the settings if you'd like so that it shows up on your GitHub profile for the world to see.
 
 This way, you'll embed your skills and have your first project in your portfolio, and we'll be able to check out your code and be able to give you feedback as well.
 
+## TODO: Lift Tao's GH issues blurb from PT BC (if can find - if not, draft something). Use GH issues feature for any questions, comments, and interaction. Can use inbuilt templates (bugs, questions, resource, etc.).
+
 ## Further Resources
 
-- You can use [FreeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) to keep practicing your JavaScript.
+If you've finished the activities above and are hungry for more, here are some optional further resources for you to check out.
+
+### Information
+
+- [What really happens when you click on a link?](https://dev.to/katiehawcutt/what-really-happens-when-you-click-on-a-link-29o4)
+- [All of the links from Quincy Larson's "Five Links Worth Your Time" emails](https://github.com/sourabh-joshi/awesome-quincy-larson-emails) - This is a really valuable newsletter sent out by the founder of FreeCodeCamp, so we'd encourage you to subscribe moving forward, but you can find all the past links here!
+- Fireship's videos on the [weird history of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4) and [how JavaScript works under the hood](https://www.youtube.com/watch?v=FSs_JYwnAdI)
+- [PluralSight's JavaScript guide](https://www.javascript.com/learn/strings)
+- [JavaScript Arrays and Objects Are Just Like Books and Newspapers](https://www.freecodecamp.org/news/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746/)
+- [JavaScript object keys tutorial – how to use a JS key-value pair](https://www.freecodecamp.org/news/javascript-object-keys-tutorial-how-to-use-a-js-key-value-pair/)
+- [Functional Programming in JavaScript Explained in Plain English](https://www.freecodecamp.org/news/functional-programming-in-javascript-explained-in-plain-english/)
+
+### More hands-on practice
+
 - If you finish your tribute page project, feel free to move on to the other projects in the Responsive Web Design certification such as the [survey form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form).
-- TODO: ADD MORE!
+- You can use [FreeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) to keep practicing your JavaScript.
