@@ -22,6 +22,7 @@ By the end of this material, you'll be able to:
 - Start to become acquainted with the basics of JavaScript
 - Know the basics of Git and GitHub for version control
 - Start navigating through your computer using commands in the command line
+- Create the first project in your portfolio
 
 ## Learning Journey 🗺
 
