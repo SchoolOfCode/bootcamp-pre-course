@@ -79,12 +79,25 @@ Learning to navigate a computer using the command line is a skill that gives you
 
 ### Putting it all together - your first projects
 
-TODO: Project description here! (FCC tribute page. Form page too?) FCC projects are in Codepen. Is it reasonable to ask for them to do it in Codepen for FCC's tests and then move it to a GH repo? We can provide the classroom link with starter files to make it easier!
-
-TODO: Ask them to do a readme in MD (the "practice soon" referenced in the MD section above)
-
 By this point, you've done a load of learning, and you might feel like you have lots of different pieces of information swimming around in your head. It's time to solidify what you learned and give you the opportunity for some creativity as well by putting that knowledge into practice.
+
+We'd like you to complete the first project in FreeCodeCamp's Responsive Web Design certification, [the tribute page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). You can make your tribute page about anything you want. Let your personality shine through!
+
+Your page needs to fulfill all of the user stories listed on FreeCodeCamp's requirements page. You can create a Codepen using their template and run their inbuilt test suite to check how you're doing, and then feel free to submit it to FreeCodeCamp to get your first step toward their certification. This will be great practice in building a project according to a set of requirements as user stories just like software developers do on the job.
+
+However, we'd also like you to solidify the other knowledge you've gained in the activities above. Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. We use GitHub Classroom for our assignments during the course, so to give you your first taste of that, please click on the [classroom link here](TODO: INSERT LINK!!!). This will create your own personal repository that you can then clone down.
+
+In this repository, please:
+
+- Take your code from the Codepen and insert it into the HTML and CSS files within the repository.
+- Use your new Markdown skills to write a README for the repository. In it, you can talk about why you chose the subject you chose for your tribute page as well as what you learned and any reflections on the development journey.
+- Add, commit, and push your changes to the repository using your new Git skills on the command line.
+- You can then go in and make the repository public in the settings if you'd like so that it shows up on your GitHub profile for the world to see.
+
+This way, you'll embed your skills and have your first project in your portfolio, and we'll be able to check out your code and be able to give you feedback as well.
 
 ## Further Resources
 
-- [FreeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- You can use [FreeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) to keep practicing your JavaScript.
+- If you finish your tribute page project, feel free to move on to the other projects in the Responsive Web Design certification such as the [survey form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form).
+- TODO: ADD MORE!
