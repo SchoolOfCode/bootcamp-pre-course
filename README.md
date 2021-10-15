@@ -58,13 +58,7 @@ Now that your syntax muscles are limbered up, it's time to jump into HTML and CS
 
 FreeCodeCamp is a fantastic resource that makes learning HTML and CSS approachable and fun. Work your way through [the Responsive Web Design activities here](https://www.freecodecamp.org/learn/responsive-web-design/) - you don't need to complete the certification; the aim is to work through the interactive activities so that you have a foundation of HTML and CSS knowledge at the beginning of the course. If you prefer to learn via video, you can watch their [Learn HTML5 and CSS3 From Scratch video course here](https://www.youtube.com/watch?v=mU6anWqZJcc) .
 
-Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI Design Fundamentals course](https://scrimba.com/learn/design) to help you learn basic design principles that help you create user interfaces with your HTML and CSS that both look good and function well.
-
-### First steps into JavaScript
-
-To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript." Learning JavaScript will empower you to code across the tech spectrum!
-
-Start your JavaScript journey by watching our very own Dr. Chris Meah's [introduction to JavaScript](https://vimeo.com/showcase/8582136) to put things in context and get introduced to the fundamentals. Use the password **bootcamp** to access the video. Then get your hands on JavaScript by progressing through the free interactive lessons available in the [JavaScript CodeAcademy course](https://www.codecademy.com/learn/introduction-to-javascript). Again, if you prefer to learn via video, you can code along with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg) instead.
+Alongside FreeCodeCamp, we'd also like you to complete Scrimba's short [Learn UI Design Fundamentals course](https://scrimba.com/learn/design) to help you learn basic design principles that help you create user interfaces with your HTML and CSS that both look good and function well. If you still feel like you need some extra practice, check out this [MarkSheet](https://marksheet.io/) course for another practical introduction
 
 ### Taking command with the command line
 
@@ -78,7 +72,7 @@ Learning to navigate a computer using the command line is a skill that gives you
 
 The image of the lone coder sitting in a dark corner tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. A version control system tracks all of the different changes that are being made to a coding project, so that work can be checked before being commited, or enabling us to re-wind time to an earlier version if something goes wrong.
 
-During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends!
+During the bootcamp, the version control tool you'll be using is called Git. Hand in hand with Git, we'll also be using GitHub (where you're reading this right now), and once you start writing and sharing code in earnest, they'll soon become your best friends! [Watch this video](https://vimeo.com/632147610/b261a71a83) for an introduction to Git.
 
 First, make sure you follow [the instructions here](https://www.freecodecamp.org/news/git-first-time-setup/) to ensure you've installed Git correctly and have your credentials configured correctly. This will be a good chance to start practicing interacting with your computer using the command line as well.
 
