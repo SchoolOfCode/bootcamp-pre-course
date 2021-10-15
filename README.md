@@ -68,6 +68,8 @@ Most users interact with their modern computers using the GUI (graphic user inte
 
 Learning to navigate a computer using the command line is a skill that gives you lots of power. There are a few basic commands to learn first and more complex ones to learn later on. The important thing for you to take away is the pattern of a using a command, options and input. We've put together [this challenge](https://schoolofcode.github.io/line-commander/) for you to play through which should help you get to grips with the basics and also do some cool stuff!
 
+NOTE - on some versions of Windows the 'rev' command will not work. Don't worry - it's not an essential command to have installed! If you find the 'rev' command does not work on your computer, just use this [text reverser](https://textreverser.com/) to complete the challenge.
+
 ### Git and version control
 
 The image of the lone coder sitting in a dark corner tapping away in solitude is a stereotype thanks to countless movies and TV shows, but in reality, coding is a hugely collaborative endeavor. There are loads of benefits to multiple people working on the same codebase, but without a form of version control, the potential for getting wires crossed and overlapping each other's code looms. A version control system tracks all of the different changes that are being made to a coding project, so that work can be checked before being commited, or enabling us to re-wind time to an earlier version if something goes wrong.
