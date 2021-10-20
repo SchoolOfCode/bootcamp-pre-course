@@ -120,6 +120,8 @@ If HTML is the skeleton giving the structure of the page and CSS is what makes i
 
 Here's our introduction to [the History of JavaScript](https://youtu.be/t8eQjr9JGM8) - there are some really great points about JavaScript in this video, see if you can notice them all. You may need to watch this a few times... apologies if the tune becomes stuck in your head.
 
+[![History of JavaScript Video](https://img.youtube.com/vi/t8eQjr9JGM8/0.jpg)](https://www.youtube.com/watch?v=t8eQjr9JGM8)
+
 Get your hands on JavaScript by progressing through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Again, if you prefer to learn via video, you can code along with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg) instead. Or, if you're feeling like you want to blast through a lot of stuff... [here's the FreeCodeCamp JavaScript track](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), but we're not expecting you to complete the whole thing just yet.
 
 ## Do you have a question or need help?
