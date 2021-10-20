@@ -57,8 +57,9 @@ We've selected a few videos for you to watch from a series of YouTube videos - i
 
 [Markdown](https://daringfireball.net/projects/markdown/syntax#philosophy) is a lightweight markup language designed to make it easy to write for the web, with an emphasis on being as easy-to-read and easy-to-write as possible. Developers use it to write documentation about their code and communicate on GitHub. The readme you're reading right now is written in Markdown, in fact. It's also used by a lot of tech bloggers to create content. For example, if you wanted to write a post on [dev.to](https://dev.to/), you'd do it in Markdown. In addition to being useful on its own, learning Markdown will help you get used to using a different syntax[^1] than you might be used to to make things happen on a page, which is good practice for coding! 💪
 
-[^1]: Syntax is the rules that define the structure of a programming language
-Follow the [tutorial here](https://www.markdowntutorial.com/) to learn the basics of Markdown. You'll have a chance to practice it soon.
+[^1]:
+    Syntax is the rules that define the structure of a programming language
+    Follow the [tutorial here](https://www.markdowntutorial.com/) to learn the basics of Markdown. You'll have a chance to practice it soon.
 
 ### HTML and CSS: the building blocks of the web
 
@@ -115,7 +116,9 @@ This way, you'll embed your skills and have your first project in your portfolio
 
 ### It might be time to take your first steps into JavaScript
 
-To continue the body analogy from above, if HTML is the skeleton giving the structure of the page and CSS is what makes it usable and beautiful, JavaScript powers the muscles that allow it to function and do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript". Learning JavaScript will empower you to code across the tech spectrum!
+If HTML is the skeleton giving the structure of the page and CSS is what makes it look great (or not), JavaScript is the brains that power the muscles and allow it to do useful things. 💪 However, JavaScript isn't just for the web! JavaScript is a flexible, multi-paradigm language that can run just about anywhere. In fact, according to the oft-quoted [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/), "Any application that can be written in JavaScript will eventually be written in JavaScript". Learning JavaScript will empower you to code across the tech spectrum!
+
+Here's our introduction to [the History of JavaScript](https://youtu.be/t8eQjr9JGM8) - there are some really great points about JavaScript in this video, see if you can notice them all. You may need to watch this a few times... apologies if the tune becomes stuck in your head.
 
 Get your hands on JavaScript by progressing through the free interactive lessons available in the [JavaScript CodeCademy course](https://www.codecademy.com/learn/introduction-to-javascript). Again, if you prefer to learn via video, you can code along with the [FreeCodeCamp beginner JavaScript video](https://www.youtube.com/watch?v=PkZNo7MFNFg) instead. Or, if you're feeling like you want to blast through a lot of stuff... [here's the FreeCodeCamp JavaScript track](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), but we're not expecting you to complete the whole thing just yet.
 
