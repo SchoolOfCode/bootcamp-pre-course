@@ -32,6 +32,8 @@ Although there are many options out there, the one we use is [Visual Studio Code
 
 [This guide](https://www.canva.com/design/DAEhRtVI350/sFbhxfM4nTfe7N4bJu7EnQ/view#1) will help you install VS Code along with the other software you'll need. Follow the instructions on each page that pertain to your operating system.
 
+There is also now a [version of VSCode you can use on the web](https://vscode.dev/).
+
 ### Preparing your file system
 
 You probably know how to create a file, and a folder... but believe us when we say it really will save you a lot of headaches to understand how we want you to start creating them.
